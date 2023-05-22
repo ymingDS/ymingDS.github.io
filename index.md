@@ -1,10 +1,13 @@
 
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Yi Ming's Profile 
+**Email:** ymingpro@outlook.com         
+<img src="./attachments/headshot.JPG" alt="Headshot" width="200" height="200">
 
-# Header 1
+## CV/Resume
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[View PDF](./attachments/Resume.pdf)
+
+<iframe src="./attachments/Resume.pdff" width="100%" height="500px">
+  This browser does not support PDFs. Please download the PDF to view it: [Download PDF](./attachments/Resume.pdf)
+</iframe>

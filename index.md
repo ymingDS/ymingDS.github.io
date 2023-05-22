@@ -1,9 +1,27 @@
 
 
-## Yi Ming's Profile 
-**Email:** ymingpro@outlook.com  
-[**My Resume/CV/简历**](./attachments/Resume.pdf)           
-<img src="./attachments/headshot.JPG" alt="Headshot" width="100" height="100">  
+# Yi Ming's Profile
+
+<div style="display: flex; align-items: center;">
+    <img src="./attachments/headshot.JPG" alt="Headshot" width="200" height="200">
+    <div style="margin-left: 20px;">
+        <p><strong>About:</strong> I am a data science graduate student with a passion for exploring the vast realms of data mining, recommendation systems, and machine learning. I find great fascination in the field of computational social science, particularly in analyzing social networks and uncovering valuable insights from complex social interactions. I enjoy analyzing social networks and extracting meaningful insights. I love to leverage data-driven approaches to better understand and impact human behavior in various social contexts.
+        </p>
+        <p><strong>Email:</strong> ymingpro@outlook.com</p>
+        <p><a href="./attachments/Resume.pdf"><strong>My Resume/CV/简历</strong></a></p>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<hr style="border-top: 1px solid ##ff0000;">
 
 ## Education 
 ### M.S. in Applied Data Science                
@@ -11,7 +29,7 @@
 January 2022 - December 2023  
 GPA: 3.73/4.00  
 #### Honors & Awards:   
-  Top 5 Winner in Recommendation System Competition (DSCI 553)
+- Top 5 Winner in Recommendation System Competition, [DSCI-553 Competition 2023 Spring](competition_result_screenshot.jpg)
 #### Course Taken: 
 _Please click **Course Name** to view the syllabus_
 
@@ -22,11 +40,14 @@ _Please click **Course Name** to view the syllabus_
 | [DSCI-551 Data Management](./attachments/DSCI_551_syllabus.pdf) | A   | Function and design of modern storage systems, including cloud; data management techniques; data modeling; network attached storage, clusters and data centers; relational databases; the map-reduce paradigm.   |
 | [CSCI-599 Research Methods & User Study](./attachments/CSCI_599_syllabus.pdf) | A | Research methods and data analysis techniques for human subjects research. Topics include experimental research design, correlational/survey research, data analysis for experimental design, ensuring validity, ethics and privacy concerns.  |
 
+<hr style="border-top: 1px solid ##ff0000;">
 
 ### M.S. in Business Analytics 
 
 **Boston University**, Questrom School of Business   
 August 2020 - December 2021  
+
+<hr style="border-top: 1px solid ##ff0000;">
 
 ### B.S. in Business Data Analytics 
 **Arizona State University**, W.P Carey School of Business  

@@ -3,7 +3,7 @@
 # Yi Ming
 
 <div style="display: flex; align-items: center;">
-    <img src="./attachments/headshot.JPG" alt="Headshot" width="200" height="200">
+    <!-- <img src="./attachments/headshot.JPG" alt="Headshot" width="200" height="200"> -->
     <div style="margin-left: 20px;">
         <p><strong>About:</strong> I am a data science graduate student with a passion for exploring the vast realms of data mining, recommendation systems, and machine learning. I find great fascination in the field of computational social science, particularly in analyzing social networks and uncovering valuable insights from complex social interactions. I enjoy analyzing social networks and extracting meaningful insights. I love to leverage data-driven approaches to better understand and impact human behavior in various social contexts.
         </p>

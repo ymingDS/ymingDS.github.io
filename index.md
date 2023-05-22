@@ -29,7 +29,8 @@
 January 2022 - December 2023  
 GPA: 3.73/4.00  
 #### Honors & Awards:   
-- Top 5 Winner in Recommendation System Competition, [DSCI-553 Competition 2023 Spring](competition_result_screenshot.jpg)
+- Top 5 Winner in Recommendation System Competition, [DSCI-553 Competition 2023 Spring](./attachments/competition_result_screenshot.jpg)
+
 #### Course Taken: 
 _Please click **Course Name** to view the syllabus_
 
@@ -55,7 +56,7 @@ January 2017 - May 2020
 GPA: 3.81/4.00  
 #### Honor & Awards:
 Graduated with Summa Cum Laude  
-Dean’s List 2017-2020
+Dean’s List (College top 5%): Spring 2017 | Fall 2017 | Spring 2018 | Fall 2018 | Fall 2019 | Spring 2020
 
 
 

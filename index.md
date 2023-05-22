@@ -1,6 +1,6 @@
 
 
-# Yi Ming's Profile
+# Yi Ming
 
 <div style="display: flex; align-items: center;">
     <img src="./attachments/headshot.JPG" alt="Headshot" width="200" height="200">
